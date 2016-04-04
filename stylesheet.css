@@ -1,0 +1,28 @@
+#container > div {
+    display: flex;
+    flex-direction: column;
+}
+
+body {
+    font-family: 'Whitney SSm A', 'Whitney SSm B', verdana, sans-serif;
+    font-weight: 400;
+    color: #222222;
+    padding: 0 1em;
+}
+
+p {
+    margin: 2rem auto;
+    max-width: 750px;
+    line-height: 1.4em;
+}
+
+a {
+    color: #222222;
+    text-decoration: none;
+}
+
+.keep-ratio {
+    display: block;
+    object-fit: scale-down;
+    max-width: 400px;
+}
