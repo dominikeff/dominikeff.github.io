@@ -3,6 +3,11 @@
     flex-direction: column;
 }
 
+@font-face {
+    font-family: "font";
+    src: url("font.woff") format('woff');
+    }
+
 body {
     font-family: 'Whitney SSm A', 'Whitney SSm B', verdana, sans-serif;
     font-weight: 400;
@@ -14,6 +19,7 @@ p {
     margin: 2rem auto;
     max-width: 750px;
     line-height: 1.4em;
+    font-family: 'font';
 }
 
 a {
