@@ -3,7 +3,7 @@
 div {
     display: flex;
     flex-direction: column;
-    margin: auto;
+    margin: 2rem;
     width: 80%;
 }
 
@@ -19,7 +19,6 @@ body {
 }
 
 p {
-    margin: 2rem;
     line-height: 1.4em;
     font-family: 'font';
     font-weight: 400;
