@@ -6,7 +6,7 @@ div {
     align-items: center;
     justify-content: center;
     margin: auto;
-    width: 500px;
+    width: 900px;
 }
 
 div.content {
@@ -42,8 +42,3 @@ a {
     text-align: center;
 }
 
-.keep-ratio {
-    display: block;
-    object-fit: scale-down;
-    max-width: 400px;
-}
