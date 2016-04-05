@@ -3,7 +3,7 @@
 div {
     display: flex;
     flex-direction: column;
-    margin: 2rem;
+    margin: auto;
     width: 80%;
 }
 
