@@ -22,10 +22,10 @@ body {
 
 p {
     margin: 2rem auto;
-    max-width: 750px;
+    max-width: 200px;
     line-height: 1.4em;
     font-family: 'font';
-    font-weight: 500;
+    font-weight: 400;
 }
 
 a {
