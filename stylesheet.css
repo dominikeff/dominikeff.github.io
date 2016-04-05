@@ -11,7 +11,7 @@ div {
     }
 
 body {
-    font-family: 'Whitney SSm A', 'Whitney SSm B', verdana, sans-serif;
+    font-family: 'font';
     font-weight: 400;
     color: #222222;
     padding-right: 10px;
@@ -25,6 +25,7 @@ p {
     max-width: 750px;
     line-height: 1.4em;
     font-family: 'font';
+    font-weight: 500;
 }
 
 a {
