@@ -8,6 +8,10 @@ div {
     margin: auto;
 }
 
+img {
+    max-width:100%
+}
+
 @font-face {
     font-family: "font";
     src: url("font.woff") format('woff');
