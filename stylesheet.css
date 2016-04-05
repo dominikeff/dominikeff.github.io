@@ -4,6 +4,7 @@ div {
     display: flex;
     flex-direction: column;
     margin: auto;
+    width: 80%;
 }
 
 @font-face {
@@ -15,16 +16,10 @@ body {
     font-family: 'font';
     font-weight: 400;
     color: #222222;
-    padding-right: 10px;
-    padding-left: 10px;
-    margin: auto;
-    width: 80%;
 }
 
 p {
     margin: 2rem;
-    width:80%;
-    max-width: 200px;
     line-height: 1.4em;
     font-family: 'font';
     font-weight: 400;
