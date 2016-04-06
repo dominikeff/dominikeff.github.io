@@ -4,8 +4,13 @@
     align-items: center;
     justify-content: center;
     margin: auto;
-    width: 462 px;
+    width: 462px;
     text-align: center;
+}
+
+div.content {
+    margin:0 auto;
+    width:462px;
 }
 
 img {
@@ -31,6 +36,8 @@ p {
     line-height: 1.4em;
     font-family: 'font';
     font-weight: 400;
+    text-align: center;
+    align-items: center;
 }
 
 a {
