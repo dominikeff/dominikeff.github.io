@@ -4,13 +4,8 @@
     align-items: center;
     justify-content: center;
     margin: auto;
-    width: 500px;
+    width: auto;
     text-align: center;
-}
-
-div.content {
-    margin:0 auto;
-    width:500px;
 }
 
 img {
