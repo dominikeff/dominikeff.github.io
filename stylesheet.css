@@ -4,7 +4,7 @@
     align-items: center;
     justify-content: center;
     margin: auto;
-    width: 462px;
+
     text-align: center;
 }
 
@@ -25,6 +25,7 @@ body {
     font-family: 'font';
     font-weight: 400;
     color: #222222;
+    width: 462px;
 }
 
 p {
