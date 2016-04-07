@@ -5,6 +5,7 @@
     justify-content: center;
     margin: auto;
     text-align: center;
+
 }
 
 img {
@@ -24,8 +25,12 @@ body {
     font-family: 'font';
     font-weight: 400;
     color: #222222;
+}
+
+div {
     width: 462px;
 }
+
 
 p {
     line-height: 1.4em;
