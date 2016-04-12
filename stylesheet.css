@@ -20,6 +20,8 @@
     text-align: center;
     width:400px;
     max-width: 100%;
+    text-align:center;
+    margin: 0 auto;
     word-break: break-word;
     white-space: normal;
 }
