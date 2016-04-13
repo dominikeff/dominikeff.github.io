@@ -37,9 +37,7 @@
     </script>
     
     <script>
-        $("img").mousedown(function(){
-        return false;
-        });
+        $('img').on('dragstart', function(event) {event.preventDefault(); });
     </script>
 
   </head>
