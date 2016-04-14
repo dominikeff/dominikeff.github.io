@@ -92,6 +92,7 @@ a {
         width:80%;
         word-break: break-word;
         margin-top: 0 auto;
+        margin: 0 auto;
         text-align: center;
         align-items: center;
     }
