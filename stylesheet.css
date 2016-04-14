@@ -39,12 +39,11 @@ h2 {
     width:30%;
     word-break: break-word;
     margin-top: 0em;
-    text-align: center;
+    margin: 0 auto;
 }
 
 p {
     line-height: 1em;
-    align-items: center;
 }
 
 a {
@@ -93,12 +92,7 @@ a {
         word-break: break-word;
         margin-top: 0 auto;
         margin: 0 auto;
-        text-align: center;
-        align-items: center;
     }
 
-    p {
-        align-items: center;
-    }
 
 }
