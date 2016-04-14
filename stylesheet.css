@@ -60,6 +60,9 @@ a {
 
     }
 
+    .underline:hover {
+        text-decoration: underline;
+    }
     body {
         display: flex;
         flex-direction: column;
@@ -78,14 +81,14 @@ a {
 
     h2 {
         font-size: 1.4em;
-        padding: 0em;
+        padding: 0 auto;
         width:80%;
         word-break: break-word;
-        margin-top: 0em;
+        margin-top: 0 auto;
         text-align: center;
     }
 
-    p{
+    p {
         align-items: center;
     }
 
