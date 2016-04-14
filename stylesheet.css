@@ -7,6 +7,8 @@
     margin: 0 auto;
     padding: 0;
     width: 40%;
+    align-items: center;
+    text-align: center;
 }
 
 .underline:hover {
@@ -19,8 +21,7 @@ body {
     font-family: 'font';
     font-weight: 400;
     color: #222222;
-    align-items: center;
-    text-align: center;
+
 }
 
 h1 {
@@ -52,6 +53,8 @@ a {
         margin: 0 auto;
         padding: 0;
         width: 90%;
+        align-items: center;
+        text-align: center;
     }
 
     body {
