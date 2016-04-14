@@ -10,6 +10,10 @@
 
 }
 
+#titlemax {
+    max-width: 550px;
+}
+
 .underline:hover {
     text-decoration: none;
 }
