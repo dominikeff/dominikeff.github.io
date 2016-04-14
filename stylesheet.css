@@ -20,7 +20,7 @@
     text-align: center;
 }
 
-.nobr {
+.mobile {
     display: none;
 }
 
@@ -75,10 +75,10 @@ a {
         text-align: center;
     }
 
-    .nobr {
+    .mobile {
         display:inline;
     }
-    
+
     body {
         display: flex;
         flex-direction: column;
