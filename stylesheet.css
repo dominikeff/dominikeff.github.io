@@ -97,7 +97,7 @@ a {
         font-size: 1.4em;
         padding: 0 auto;
         width:80%;
-        word-break: break-word;
+        word-break: break-all;
         margin-top: 0 auto;
         margin: 0 auto;
     }
