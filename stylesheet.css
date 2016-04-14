@@ -15,14 +15,17 @@
     text-decoration: none;
 }
 
+.center {
+    align-items: center;
+    text-align: center;
+}
+
 body {
     display: flex;
     flex-direction: column;
     font-family: 'font';
     font-weight: 400;
     color: #222222;
-    align-items: center;
-    text-align: center;
 }
 
 h1 {
@@ -63,14 +66,18 @@ a {
     .underline:hover {
         text-decoration: underline;
     }
+
+    .center {
+        align-items: center;
+        text-align: center;
+    }
+
     body {
         display: flex;
         flex-direction: column;
         font-family: 'font';
         font-weight: 400;
         color: #222222;
-        align-items: center;
-        text-align: center;
     }
 
     h1 {
