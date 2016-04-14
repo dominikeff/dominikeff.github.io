@@ -20,6 +20,10 @@
     text-align: center;
 }
 
+.nobr {
+    display: none;
+}
+
 body {
     display: flex;
     flex-direction: column;
@@ -71,6 +75,10 @@ a {
         text-align: center;
     }
 
+    .nobr {
+        display:inline;
+    }
+    
     body {
         display: flex;
         flex-direction: column;
